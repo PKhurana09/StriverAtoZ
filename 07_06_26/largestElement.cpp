@@ -29,3 +29,5 @@ int largestElement(vector<int>& nums){
     }
     return retVal;
 }
+
+// solved this question with O(N) time complexity which is the best solution possible in this case
